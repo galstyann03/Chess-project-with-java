@@ -1,0 +1,9 @@
+3
+-----ls---------------------------------------------------L-----,WHITE,EASY
+Black to win.
+-LS----R-PP-N-PP-B--Q----p--P---s---p-----b--------pqppp-s----l-,BLACK,MEDIUM
+Black to win.
+------slp-----p----pPn-p--p--Q-------N----P--q--P----sSP----S--L,WHITE,MEDIUM
+White wins.
+
+
